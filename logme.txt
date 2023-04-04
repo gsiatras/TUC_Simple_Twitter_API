@@ -1,0 +1,3 @@
+2022-12-01 15:14:27,879 - mylogger - INFO - Loaded data from .json file
+2022-12-01 15:14:57,699 - root - INFO - Tweet Id: 22	 Text: Obama vows to track down ambassador’s killers, tightens security – Reuters: CBS News Obama vows to track down am... http://t.co/6w3qsLRo	 Created_at: Thu Sep 13 01:30:24 +0000 2012
+2022-12-01 15:15:16,304 - mylogger - INFO - Tweets saved. Exiting the program...
